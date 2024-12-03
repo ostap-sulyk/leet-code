@@ -3,16 +3,16 @@ package twosum
 func TwoSum(nums []int, target int) []int {
 	myMap := make(map[int]int)
 
-	result := []int{}
-	for i, n := range nums {
-		dif := target - n
+	for i, num := range nums {
+		dif := target - num
+		difInd, ok := myMap[dif]
 
-		if ind, found := myMap[dif]; found {
-			result = []int{ind, i}
-			break
+		if ok {
+			return []int{difInd, i}
 		}
 
-		myMap[n] = i
+		myMap[num] = i
 	}
-	return result
+
+	return nil
 }
