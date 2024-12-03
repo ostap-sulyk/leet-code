@@ -1,7 +1,6 @@
-package mergestringsalternately_test
+package mergestringsalternately
 
 import (
-	mergestringsalternately "leet-code/MergeStringsAlternately"
 	"testing"
 )
 
@@ -10,7 +9,7 @@ func TestMergeStringsAlternately(t *testing.T) {
 		word1, word2 := "abc", "pqr"
 
 		want := "apbqcr"
-		got := mergestringsalternately.MergeAlternately(word1, word2)
+		got := MergeAlternately(word1, word2)
 		assert(t, got, want)
 	})
 
@@ -18,7 +17,7 @@ func TestMergeStringsAlternately(t *testing.T) {
 		word1, word2 := "ab", "pqrs"
 
 		want := "apbqrs"
-		got := mergestringsalternately.MergeAlternately(word1, word2)
+		got := MergeAlternately(word1, word2)
 		assert(t, got, want)
 	})
 
@@ -26,7 +25,7 @@ func TestMergeStringsAlternately(t *testing.T) {
 		word1, word2 := "abcd", "pq"
 		want := "apbqcd"
 
-		got := mergestringsalternately.MergeAlternately(word1, word2)
+		got := MergeAlternately(word1, word2)
 		assert(t, got, want)
 	})
 
