@@ -24,13 +24,14 @@ Each problem resides in its own folder, maintaining a clear and modular structur
 
 ## 📜 Problem List
 
-| Problem # | Title                      | Difficulty | Folder Name              |
-|-----------|----------------------------|------------|--------------------------|
-| 1         | Two Sum                    | Easy       | `TwoSum`                 |
-| 2         | Merge Strings Alternately  | Easy       | `MergeStringsAlternately`|
-
----
-
+| Problem # | Title                                 | Difficulty                 | Folder Name                      |
+|-----------|----------------------------------------|----------------------------|----------------------------------|
+| 1         | Count Vowel Strings In Ranges | <span style="color:green;">Easy</span> | `CountVowelStringsInRanges` |
+| 2         | Merge Sorted Array | <span style="color:green;">Easy</span> | `MergeSortedArray` |
+| 3         | Merge Strings Alternately | <span style="color:green;">Easy</span> | `MergeStringsAlternately` |
+| 4         | Palindrome Number | <span style="color:green;">Easy</span> | `PalindromeNumber` |
+| 5         | Two Sum | <span style="color:green;">Easy</span> | `TwoSum` |
+| 6         | Valid Number | <span style="color:green;">Easy</span> | `ValidNumber` |
 ## 👨‍💻 Why This Repository?
 
 This repository is my journey of learning and sharing it with anyone who might find it useful.
