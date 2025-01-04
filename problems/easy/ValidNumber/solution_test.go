@@ -8,23 +8,23 @@ func TestValidNumber(t *testing.T) {
 	t.Run("Example 1", func(t *testing.T) {
 		intput := "0"
 		want := true
-		got := IsNumber(intput)
+		got := IsNumber1(intput)
 
 		assert(t, got, want)
 	})
-	
+
 	t.Run("Example 2", func(t *testing.T) {
 		intput := "e"
 		want := false
-		got := IsNumber(intput)
+		got := IsNumber1(intput)
 
 		assert(t, got, want)
 	})
-	
+
 	t.Run("Example 3", func(t *testing.T) {
 		intput := "."
 		want := false
-		got := IsNumber(intput)
+		got := IsNumber1(intput)
 
 		assert(t, got, want)
 	})
