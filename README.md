@@ -35,12 +35,15 @@ Problems are grouped by difficulty level (easy, medium, hard) and each problem h
 
 | Problem # | Title                                  | Difficulty                 | Folder Name                      |
 |-----------|----------------------------------------|----------------------------|----------------------------------|
-| 1         | Count Vowel Strings In Ranges | 🟢 Easy | `CountVowelStringsInRanges` |
-| 2         | Merge Sorted Array | 🟢 Easy | `MergeSortedArray` |
-| 3         | Merge Strings Alternately | 🟢 Easy | `MergeStringsAlternately` |
-| 4         | Palindrome Number | 🟢 Easy | `PalindromeNumber` |
-| 5         | Two Sum | 🟢 Easy | `TwoSum` |
-| 6         | Valid Number | 🟢 Easy | `ValidNumber` |
+| 1         | Remove Duplicates From Sorted Array2 | 🟡 Medium | `RemoveDuplicatesFromSortedArray2` |
+| 2         | Count Vowel Strings In Ranges | 🟢 Easy | `CountVowelStringsInRanges` |
+| 3         | Merge Sorted Array | 🟢 Easy | `MergeSortedArray` |
+| 4         | Merge Strings Alternately | 🟢 Easy | `MergeStringsAlternately` |
+| 5         | Palindrome Number | 🟢 Easy | `PalindromeNumber` |
+| 6         | Remove Duplicates From Sorted Array | 🟢 Easy | `RemoveDuplicatesFromSortedArray` |
+| 7         | Remove Element | 🟢 Easy | `RemoveElement` |
+| 8         | Two Sum | 🟢 Easy | `TwoSum` |
+| 9         | Valid Number | 🟢 Easy | `ValidNumber` |
 
 ---
 
