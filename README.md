@@ -37,13 +37,14 @@ Problems are grouped by difficulty level (easy, medium, hard) and each problem h
 |-----------|----------------------------------------|----------------------------|----------------------------------|
 | 1         | Remove Duplicates From Sorted Array2 | 🟡 Medium | `RemoveDuplicatesFromSortedArray2` |
 | 2         | Count Vowel Strings In Ranges | 🟢 Easy | `CountVowelStringsInRanges` |
-| 3         | Merge Sorted Array | 🟢 Easy | `MergeSortedArray` |
-| 4         | Merge Strings Alternately | 🟢 Easy | `MergeStringsAlternately` |
-| 5         | Palindrome Number | 🟢 Easy | `PalindromeNumber` |
-| 6         | Remove Duplicates From Sorted Array | 🟢 Easy | `RemoveDuplicatesFromSortedArray` |
-| 7         | Remove Element | 🟢 Easy | `RemoveElement` |
-| 8         | Two Sum | 🟢 Easy | `TwoSum` |
-| 9         | Valid Number | 🟢 Easy | `ValidNumber` |
+| 3         | Majority Element | 🟢 Easy | `MajorityElement` |
+| 4         | Merge Sorted Array | 🟢 Easy | `MergeSortedArray` |
+| 5         | Merge Strings Alternately | 🟢 Easy | `MergeStringsAlternately` |
+| 6         | Palindrome Number | 🟢 Easy | `PalindromeNumber` |
+| 7         | Remove Duplicates From Sorted Array | 🟢 Easy | `RemoveDuplicatesFromSortedArray` |
+| 8         | Remove Element | 🟢 Easy | `RemoveElement` |
+| 9         | Two Sum | 🟢 Easy | `TwoSum` |
+| 10         | Valid Number | 🟢 Easy | `ValidNumber` |
 
 ---
 
